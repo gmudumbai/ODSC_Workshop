@@ -5,7 +5,7 @@
 #' 4.0 Frequency Count & Dendogram
 
 #Set the working directory
-setwd('C:/Users/Edward/Desktop/odsc blogs/presentation/EAST 2017/data')
+setwd('C:/Users/gmudumbai/Desktop/ODSC/text_analytics/ODSC_Workshop/2017 East/data')
 
 #libraries
 library(qdap)
